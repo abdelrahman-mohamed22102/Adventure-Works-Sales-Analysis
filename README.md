@@ -136,12 +136,12 @@ Key observations:
 
 ## Dashboard Preview
 
-
-https://github.com/user-attachments/assets/b899fe5d-9990-4855-8fb0-7b261e836c7d
-
+ ![11](https://github.com/user-attachments/assets/f8ee96cd-dfdf-4427-9adb-cea3a0f6d202)
 
 
-https://github.com/user-attachments/assets/b7596946-f474-45b2-a253-e661ad94633e
+![22](https://github.com/user-attachments/assets/02c2fdbc-c4eb-4f9e-a23b-97cdb62f9047)
+
+
 
 
 * Overview dashboard
