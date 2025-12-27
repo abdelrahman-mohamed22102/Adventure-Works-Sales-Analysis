@@ -135,14 +135,13 @@ Key observations:
 ---
 
 ## Dashboard Preview
-
- ![11](https://github.com/user-attachments/assets/f8ee96cd-dfdf-4427-9adb-cea3a0f6d202)
-
-
-![22](https://github.com/user-attachments/assets/02c2fdbc-c4eb-4f9e-a23b-97cdb62f9047)
+![11 (1)](https://github.com/user-attachments/assets/b74ac463-2244-4ef8-b145-c3b1e58f1d82)
 
 
 
+## 2nd Dashboard Preview
+
+![22 (1)](https://github.com/user-attachments/assets/2c715041-614b-4f14-9b6d-40913c067b8b)
 
 * Overview dashboard
 * Territory performance analysis
