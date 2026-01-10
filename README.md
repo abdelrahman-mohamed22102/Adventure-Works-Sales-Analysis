@@ -6,6 +6,7 @@ This project presents an end-to-end **Power BI business intelligence solution** 
 
 The solution demonstrates strong capabilities in data preparation, dimensional modeling, and analytical storytelling using Power BI.
 
+[Dashboard Link](https://app.powerbi.com/reportEmbed?reportId=9fa0c92f-1cdc-4baf-ae36-bfbadf6dbd3a&autoAuth=true&ctid=f0cdf29c-da19-471b-9305-40b151019fcd)
 ---
 
 ## Data Source
